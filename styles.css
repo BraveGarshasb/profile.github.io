@@ -1,8 +1,7 @@
 body{
     font-family: 'Quicksand', sans-serif;
 }
-.header{
-}
+
 .header > .row {
     margin-top: 30px;
 }
@@ -21,8 +20,7 @@ body{
 h4{
     color: rgb(56, 55, 55);
 }
-.photo{
-}
+
 .myphoto{
     width: 200px;
     height: 200px;
